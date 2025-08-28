@@ -1,0 +1,25 @@
+body { font-family: Arial, sans-serif; 
+    background-color: #90daff;
+     margin: 20px;  
+     font-size:20px ;}
+        
+/* Estilo del título principal */
+h1 { text-align: center;
+    font-size: 50px;
+    color: #0b2a3f; }
+        
+        /* Estilo de los párrafos */
+ p { color: #03032c; }
+        
+        /* Caja con borde y fondo blanco */
+.caja {
+    border: 1px solid #bcc6ff; 
+    padding: 30px; 
+    background: rgb(211, 219, 241); 
+    border-radius: 5px; 
+    display:flex;
+    max-width: 60%;
+    justify-content:justify;
+    overflow: hidden;
+    margin: 0 auto;}
+        
